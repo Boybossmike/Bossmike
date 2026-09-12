@@ -1,0 +1,71 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<title> Boss's web page </title>
+
+</head>
+
+<body>
+
+<h1> Food website </h1>
+
+<p> welcome to food website.Everything you want to know about food is on this website<br><br><br><br><br><br><br><br><br>
+ We have different examples of food, they are rice,&nbsp&nbspbeans,&nbsp&nbspfried plantein,&nbsp&nbspporriage,etc. </p> 
+<br><br>
+<!--html code done by my team -->
+<h2> This is a section on carbonhydrate </h2>
+
+<p> carbonhydrate are said to be energy giving food. </p>
+
+
+<h3> This section is about classes of food </h3>
+
+<p> They are mainly six classes of food 
+they are,</p>
+<ul>
+  <li>carbonhydrate</li>
+  <li>protein</li>
+  <li>minerals</li>
+  <li>fats and oil</li>
+</ul>
+Others are,
+<ol>
+  <li>vitamins</li>
+  <li>water</li>
+</ol>
+
+<h4> This section is about the six classes of food and their examples</h4>
+
+<table>
+ <tr>
+  <th>carbonhydrate</th>
+  <th>protein</th>
+  <th>minerals</th>
+  <th>fats and oil</th>
+  <th>vitamins</th>
+  <th>water</th>
+ </tr>
+ <tr>
+  <td>Rice</td>
+  <td>Egg</td>
+  <td>milks</td>
+  <td>Butter</td>
+  <td>Fresh fruits</td>
+  <td>Drinking water</td>
+ </tr>
+ <tr>
+  <td>Bread</td>
+  <td>Fish</td>
+  <td>Salt</td>
+  <td>Nuts</td>
+  <td>Livers</td>
+  <td>Juicy fruits</td>
+ </tr>
+</table>
+
+</body>
+
+</html>
